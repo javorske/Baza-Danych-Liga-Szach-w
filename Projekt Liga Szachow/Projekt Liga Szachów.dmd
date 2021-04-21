@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Projekt Liga Szachów" id="192F6B4A-04D7-69DF-0B22-5ACABE1A7DBD" version="3.5">
+<createdBy>ASUS</createdBy>
+<createdTime>2019-05-07 15:13:52 UTC</createdTime>
+<ownerDesignName>Projekt Liga Szachow</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>192F6B4A-04D7-69DF-0B22-5ACABE1A7DBD</designId>
+</OSDM_Design>
